@@ -10,7 +10,7 @@
 body {
     display: flex;
     
- 
+ background-color: bisque;
     justify-content: center;
     align-items: center;
     width: 100%;
@@ -22,7 +22,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-color:rgb(171, 166, 76);
+    background-color:rgb(170, 148, 237);
     color: rgb(16, 15, 15);
     width: 25rem;
     border-radius: 10px;
